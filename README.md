@@ -18,3 +18,9 @@ taken from https://fullstackopen.com/en/
 		- choice of info and error logging
 	- middleware.js
 		- minimum: request logger; unknown endpoint catch; error handler
+
+### Setup
+
+.env file with PORT= and MONGODB_URI=
+
+write mongoose schema and edit references
